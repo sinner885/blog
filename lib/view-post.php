@@ -83,9 +83,9 @@ if ($_SESSION)
 
     <form method="post">
         <input
-                name="install"
-                type="submit"
-                value="Install"
+            name="install"
+            type="submit"
+            value="Install"
         />
     </form>
 
